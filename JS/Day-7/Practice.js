@@ -74,3 +74,5 @@ console.log("Example of trim End");
 try1 = bigSentence1.trimEnd();
 
 console.log(try1);
+
+//This is all for today :)
